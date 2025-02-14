@@ -8,7 +8,7 @@ Projeto realizado no curso Maloca das iCoisas, módulo intermediário, pelo grup
 
 ### Storytelling
 
-<!-- ![Big Picture](./big_picture.png) -->
+![Big Picture](./big_picture.png)
 
 ### Situação Hipotética
 
