@@ -79,7 +79,7 @@ Projeto realizado no curso Maloca das iCoisas, módulo intermediário, pelo grup
 - [Kanban](https://trello.com/invite/b/679d35de0177ff09056da883/ATTI3be7de3ce601a0041a49b6e8a4244ee41225AD07/hands-on-maloca-intermediario)
 - [Documento de Requisitos Funcionais](https://docs.google.com/document/d/18FyWn2tTpSczmW8oEnDkLV8qdwSyeqJxpqSKUApjo3s/edit?usp=sharing)
 - [Documento de Definição de Pronto](./dod.pdf)
-- [Simulações](https://wokwi.com/projects/422903318761921537).
+- [Simulações](https://wokwi.com/projects/422903318761921537)
 
 <!--
 - [Pitch](https://www.canva.com/design/DAGZ3R3MyE4/rqdrzCDqPH6dExHXgRsWZw/edit?utm_content=DAGZ3R3MyE4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
