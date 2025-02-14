@@ -2,7 +2,7 @@
 
 [Link](https://github.com/ed-henrique/maloca-das-icoisas-intermediario)
 
-Projeto realizado no curso Maloca das iCoisas, módulo intermediário, pelo grupo 13 - Os Suricatos Cibernéticos.
+Projeto realizado no curso Maloca das iCoisas, módulo intermediário, pelo grupo 4 - Os Suricatos Cibernéticos.
 
 ## Big Picture
 
