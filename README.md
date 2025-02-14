@@ -29,7 +29,7 @@ Projeto realizado no curso Maloca das iCoisas, módulo intermediário, pelo grup
 
 </div>
 
-- **Product Owner**: -
+- **Product Owner**: Thaís Oliveira Almeida
 - **Scrum Master**: Eduardo Henrique Freire Machado
 
 ### Equipe de Desenvolvimento
