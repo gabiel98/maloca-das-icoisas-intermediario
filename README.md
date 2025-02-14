@@ -40,15 +40,11 @@ Projeto realizado no curso Maloca das iCoisas, módulo intermediário, pelo grup
 
 ## Esquema de Conexão
 
-<!-- ![Esquema de Conexão](./esquema_de_conexao.jpeg) -->
+### Dispositivo do Paciente
+![Esquema de Conexão](./simulacao_paciente.png) 
 
-<!--
-**Conexões**:
-
-- Pino VCC -> 3.3V do ESP32;
-- Pino GND -> GND do ESP32;
-- Pino Data -> GPIO 4 (ou qualquer pino disponível no ESP32);
--->
+### Dispositivo do Médico
+![Esquema de Conexão](./simulacao_medico.png) 
 
 ### Requisitos
 
