@@ -74,10 +74,10 @@ Projeto realizado no curso Maloca das iCoisas, módulo intermediário, pelo grup
 - [Big Picture](https://www.canva.com/design/DAGX9015E_Y/igNJWoiv6dB_DmXLwmla8g/edit?utm_content=DAGX9015E_Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [Kanban](https://trello.com/invite/b/679d35de0177ff09056da883/ATTI3be7de3ce601a0041a49b6e8a4244ee41225AD07/hands-on-maloca-intermediario)
 - [Documento de Requisitos Funcionais](https://docs.google.com/document/d/18FyWn2tTpSczmW8oEnDkLV8qdwSyeqJxpqSKUApjo3s/edit?usp=sharing)
+- [Documento de Definição de Pronto](https://docs.google.com/document/d/1SfAWE7EJPMyxTK05Fhqdkg4XVtPPihVm/edit?usp=sharing&ouid=103960811856480000613&rtpof=true&sd=true)
 
 <!--
 - [Pitch](https://www.canva.com/design/DAGZ3R3MyE4/rqdrzCDqPH6dExHXgRsWZw/edit?utm_content=DAGZ3R3MyE4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [Esquema de Conexão](https://wokwi.com/projects/417194889520795649)
-- [Documento de Definição de Pronto](https://docs.google.com/document/d/19DEppOgMY5BuyY0HxtlvK1HDf5n62W19/edit)
 - [Documento de Progresso](https://docs.google.com/document/d/1z1uJHj0xGks3xBqaYloMBIi3Pqf4hMfBDdSm-7swn1A/edit?tab=t.0)
 -->
