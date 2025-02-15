@@ -70,8 +70,9 @@ Projeto realizado no curso Maloca das iCoisas, módulo intermediário, pelo grup
 
 #### Software
 
+- Flask;
 - Streamlit;
-- Arduino IDE com as bibliotecas DHT, Adafruit MPU6050, WiFi e ThingSpeak;
+- Arduino IDE com as bibliotecas DHT, Adafruit MPU6050 e WiFi;
 
 ## Recursos
 
